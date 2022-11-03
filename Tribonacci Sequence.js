@@ -23,16 +23,10 @@ If you enjoyed this kata more advanced and generalized version of it can be foun
 */
 
 function tribonacci(signature,n){
-    let t = signature
-  if (n == 0) {
-    return []
-  } else if(n >= 3) {
+  if(n >= 3) {
     for (let i = 3; i < n; i++) {
-      let last = t.length
-      t.push(t[t.length - 3] + t[t.length - 2] + t[t.length - 1])
+      signature.push(signature[signature.length - 3] + signature[signature.length - 2] + signature[signature.length - 1])
     } 
-  }  else {
-      t = t.splice(0, n)
   }
-  return t
+      return signature.splice(0, n)
 }
