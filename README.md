@@ -2,7 +2,7 @@
 A repository with all my kata solutions.
 Pushing from 5 to 10 solutions every week!.
 
-**CodeWars Profile** [VISIT](https://www.codewars.com/users/AndresGonzalez)
+**CodeWars Profile** [Visit](https://www.codewars.com/users/AndresGonzalez)
 ![codewars profile screenshots](https://raw.githubusercontent.com/andresgonzalezarbildi/CodeWars-katas/main/CodeWars.png)
 
 ## How It's Made:
