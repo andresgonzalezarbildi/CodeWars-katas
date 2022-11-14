@@ -2,8 +2,8 @@
 A repository with all my kata solutions.
 Pushing from 5 to 10 solutions every week!.
 
-**Link to project:** [http://recruiters-love-seeing-live-demos.com](https://www.codewars.com/users/AndresGonzalez)
-![codewars profile screenshots](http://placecorgi.com/1200/650)
+**CodeWars Profile** [https://www.codewars.com/users/AndresGonzalez](https://www.codewars.com/users/AndresGonzalez)
+![codewars profile screenshots](https://raw.githubusercontent.com/andresgonzalezarbildi/CodeWars-katas/main/CodeWars.png)
 
 ## How It's Made:
 
