@@ -13,7 +13,7 @@ Everyday i solve at least 1 challenge
 
 ## Optimizations
 
-Theres a lot of code that could be refacored and optimized
+Theres a lot of code that could be refactored and optimized
 
 ## Lessons Learned:
 
