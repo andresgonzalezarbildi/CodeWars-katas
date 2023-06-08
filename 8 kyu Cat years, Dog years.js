@@ -1,5 +1,5 @@
 /*
-
+ 
 Kata Task
 
 I have a cat and a dog.
